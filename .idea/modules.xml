@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Destini-Android.iml" filepath="$PROJECT_DIR$/Destini-Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="destini3-android-Vince326/app" />
+      <module fileurl="file://$PROJECT_DIR$/destini3-android-Vince326.iml" filepath="$PROJECT_DIR$/destini3-android-Vince326.iml" group="destini3-android-Vince326" />
     </modules>
   </component>
 </project>
